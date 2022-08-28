@@ -1,4 +1,4 @@
-# **Joshua 🍑** 
+# **Joshua 🍥** 
 
 ```py
 # Hello from Joshua!
@@ -8,7 +8,7 @@ class Joshua:
 
     @property
     def hello(self) -> object:
-        return "Hello world! 🥠"
+        return "Hello world! 🌷"
 
 joshua = Joshua().hello
 ```
