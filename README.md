@@ -13,7 +13,7 @@ class Joshua:
 joshua = Joshua().hello
 ```
 
-# 🍕
+# 🦄
 Hello everyone! Welcome to my GitHub!</br>
 I'm a 16 year old game developer from Italy (Milan) 🤌.
 
