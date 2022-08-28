@@ -23,7 +23,6 @@ I know pretty well this programming languages:
 Python
 GML
 C++
-Shell
 ```
 
 If you want to have a talk with me you can find me on discord! ``j o s h u a#0072``
