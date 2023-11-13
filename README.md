@@ -1,5 +1,5 @@
 # **Joshua 🍥** 
-
+[![Buy Me a Beer](https://img.shields.io/badge/Buy%20Me%20a-Beer-yellow.svg)](https://www.buymeacoffee.com/yourbestfriendjoshua)
 ```py
 # Hello from Joshua!
 class Joshua:
@@ -15,9 +15,9 @@ joshua = Joshua().hello
 
 # 🦄
 Hello everyone! Welcome to my GitHub!</br>
-I'm a 16 year old game developer from Italy (Milan).
+I'm a 17 year old game developer from Italy (Milan).
 
-Other than gamedev I sometimes do Malwares and I love general cyber security and criptography... Don't worry though! I only do those for learning something new, and would ~~maybe~~ never use them against someone. </br>
+Other than gamedev I sometimes do malwares. </br>
 I know pretty well this programming languages:
 ```
 Python
@@ -25,4 +25,4 @@ GML
 C++
 ```
 
-If you want to have a talk with me you can find me on discord! ``j o s h u a#0072``
+If you want to have a talk with me you can find me on discord! ``joshua_yk``
