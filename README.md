@@ -1,13 +1,13 @@
 <img src="https://github.com/JoshuaKasa/JoshuaKasa/assets/87675824/10f061de-9319-404c-8032-4a10ce45c847" width="100%" alt="skeletons">
 
 ```rust
-// About me, using my own programming languahe CASO
+// About me, using my own programming language CASO
 use standard
 
 obj Me(name: Str, surname: Str) {
   fnc my_informations(): Empty {
     standard::print_line('Name: ' + name)
-    standard::print_line('SUrname: ' + surname)
+    standard::print_line('Surname: ' + surname)
     standard::print_line('Pronouns: He/Him')
     standard::print_line('Location: Milan')
     standard::print_line('Age: 18')
