@@ -39,20 +39,10 @@ me.my_informations()
 ## My Projects
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
   
-<a href="https://github.com/JoshuaKasa/BASO">
-  <img src="https://github.com/JoshuaKasa/JoshuaKasa/assets/87675824/6978d270-037f-45a9-9da7-f57bf9ff305e" alt="BASO">
-</a>
-<a href="https://github.com/JoshuaKasa/CASO">
-  <img src="https://github.com/JoshuaKasa/JoshuaKasa/assets/87675824/ca329d94-ea03-4d76-b42d-450e3b7b7054" alt="CASO">
-</a>
-<a href="https://github.com/JoshuaKasa/DASO">
-  <img src="https://github.com/JoshuaKasa/JoshuaKasa/assets/87675824/5a575910-3764-416e-899c-117dd0af089b" alt="DASO">
-</a>
-<a href="https://github.com/JoshuaKasa/FASO">
-  <img src="https://github.com/JoshuaKasa/JoshuaKasa/assets/87675824/c9cd3a22-32ca-4860-ae51-ee5ffd821830" alt="FASO">
-</a>
-<a href="https://github.com/JoshuaKasa/GASO">
-  <img src="https://github.com/JoshuaKasa/JoshuaKasa/assets/87675824/d56a2b6d-6134-40a3-932e-61e4e84ae194" alt="GASO">
-</a>
+![BASO](https://github.com/JoshuaKasa/JoshuaKasa/assets/87675824/c3c5287c-c618-4af9-9f0e-26e0c206f8b5)
+![CASO](https://github.com/JoshuaKasa/JoshuaKasa/assets/87675824/17d58a92-a904-4e0e-bf81-33bd2ade0f0c)
+![DASO](https://github.com/JoshuaKasa/JoshuaKasa/assets/87675824/5abfd1fd-2b3c-42cd-a974-be8e7bc06cbf)
+![FASO](https://github.com/JoshuaKasa/JoshuaKasa/assets/87675824/8d7d4611-2a4a-4137-8e23-f9e5193aef48)
+![GASO](https://github.com/JoshuaKasa/JoshuaKasa/assets/87675824/9a3f1a62-52d7-412f-9284-67480d998a9c)
 
 </div>
