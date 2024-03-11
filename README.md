@@ -2,20 +2,22 @@
 
 ```rust
 // About me, using my own programming language CASO
-use standard
-
-obj Me(name: Str, surname: Str) {
-  fnc my_informations(): Empty {
-    standard::print_line('Name: ' + name)
-    standard::print_line('Surname: ' + surname)
-    standard::print_line('Pronouns: He/Him')
-    standard::print_line('Location: Milan')
-    standard::print_line('Age: 18')
-  }
+incorp standard {
+	print_line
 }
 
-let me: Me = ('Tommaso', 'Santamaria')
-me.my_informations()
+obj Me(name: Str, surname: Str) {
+	fnc print_informations(): Empty {
+		print_line("Name: " + name)
+		print_line("Surname: " + surname)
+	}
+}
+
+let me: Me = {
+	"Tommaso",
+	"Santamaria"
+}
+me.print_informations()
 ```
 
 <p>
